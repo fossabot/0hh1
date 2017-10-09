@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2F0hh1.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2F0hh1?ref=badge_shield)
+
 0hh1
 ====
 
@@ -15,3 +17,6 @@ Online at [0hh1.com](http://0hh1.com)
 [Windows Phone](http://www.windowsphone.com/s?appid=0846c771-cc12-484e-8cc3-ac2287534f63)
 
 [Windows](http://apps.microsoft.com/windows/en-us/app/0h-h1/eb180cfb-b377-4270-98c5-c01ab313c85e)
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2F0hh1.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2F0hh1?ref=badge_large)
